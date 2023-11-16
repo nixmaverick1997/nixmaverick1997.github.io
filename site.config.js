@@ -6,8 +6,8 @@ const CONFIG = {
     role: "NLP Engineer",
     bio: "This is a blog-space for me to highlight my work, fun projects and some random thoughts about all things ML-related.",
     email: "nikhilnair97@gmail.com",
-    linkedin: "https://www.linkedin.com/in/nikhil-nair1997/",
-    github: "https://github.com/nixmaverick1997",
+    linkedin: "nikhil-nair1997",
+    github: "nixmaverick1997",
     instagram: "",
   },
   projects: [
